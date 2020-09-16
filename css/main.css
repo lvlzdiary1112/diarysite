@@ -1,0 +1,17 @@
+.item {
+    color :rgb(105, 187, 224);
+}
+.colour1 {
+    color : brown;
+}
+.info {
+    text-align : left;
+}
+body {
+    display : block;
+    line-height: 20px;
+}
+.codeup {
+    line-height: 15px;
+    padding-left: 45px;
+}
